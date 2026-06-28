@@ -16,9 +16,6 @@
 [submodule "libf"]
 	path = libf
 	url = https://github.com/MichaelAbler/libf.git
-[submodule "vdpguru"]
-	path = vdpguru
-	url = https://github.com/MichaelAbler/vdpguru.git
 [submodule "workspace"]
 	path = workspace
 	url = https://github.com/MichaelAbler/workspace.git
