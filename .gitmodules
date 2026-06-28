@@ -1,0 +1,24 @@
+[submodule "liba"]
+	path = liba
+	url = https://github.com/MichaelAbler/liba.git
+[submodule "libb"]
+	path = libb
+	url = https://github.com/MichaelAbler/libb.git
+[submodule "libc"]
+	path = libc
+	url = https://github.com/MichaelAbler/libc.git
+[submodule "libd"]
+	path = libd
+	url = https://github.com/MichaelAbler/libd.git
+[submodule "libe"]
+	path = libe
+	url = https://github.com/MichaelAbler/libe.git
+[submodule "libf"]
+	path = libf
+	url = https://github.com/MichaelAbler/libf.git
+[submodule "vdpguru"]
+	path = vdpguru
+	url = https://github.com/MichaelAbler/vdpguru.git
+[submodule "workspace"]
+	path = workspace
+	url = https://github.com/MichaelAbler/workspace.git

@@ -1,0 +1,21 @@
+# Top-level ignores
+*.o
+*.a
+*.so
+build/
+dist/
+__pycache__/
+*.log
+.DS_Store
+.vscode/
+.idea/
+
+# Explicitly allow submodules
+!liba/
+!libb/
+!libc/
+!libd/
+!libe/
+!libf/
+!vdpguru/
+!workspace/
